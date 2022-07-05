@@ -59,3 +59,11 @@ Give me hints to suggests the flaws if you like this project!
  
  > [BRIDGING THE GAP SOLUTIONS](https://www.bgsgroup.co.zm/PROD/SITE/)  as part of their consignment prior to interviews for full stack software developer
  
+## sample of the work
+![tasks landing](https://user-images.githubusercontent.com/36500444/177394922-cc3b7ca6-5ebd-4d18-83a4-d1e8ea2b06a3.png)
+![tasks signup](https://user-images.githubusercontent.com/36500444/177394877-6f407aeb-6991-4803-972e-b34cb27ebf9c.png)
+![tasks blank](https://user-images.githubusercontent.com/36500444/177394903-4583c423-a3b0-472e-94cd-fa43eb08f58a.png)
+![tasks page](https://user-images.githubusercontent.com/36500444/177394852-0b398cda-6a0f-4df6-a550-cfbabd32c19d.png)
+
+
+
