@@ -22,7 +22,7 @@ option to edit or delete existing tasks on the list.
 
 ### Setup
 - Run git clone(https://github.com/jomlink/to-do-web-app.git) 
-- Create database with whatever tool available  as well as the table for storing users credentials
+- Create database with whatever tool available  as well as the table for storing users credentials, or get an extract of the file included in resources folder and import the tables, >> make sure you have created the database named todo then import the table into it, 
 
 ### Run tests
 - opened via live server to test the markup, the styles,  Javascript as well php and mysql's ability to provide signing in and signing up.
