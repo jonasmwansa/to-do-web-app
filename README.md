@@ -1,6 +1,6 @@
 ## to-do-web-app
 
-To do List is a tool that helps you organize your day. It allows you to add a list of things you want to do, marking them as complete as well as removing them from the list. It is built using
+To do List is a tool that helps you organize your day. It allows you to add a list of things you want to do, marking them as complete as well as removing them from the list.
 
 This work solution constitute of the following features:
 
