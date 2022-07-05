@@ -57,7 +57,7 @@ Give me hints to suggests the flaws if you like this project!
 ## Acknowledgments
  The design of the project was inspired by:
  
- > [BRIDGING THE GAP SOLUTIONS](https://www.bgsgroup.co.zm/PROD/SITE/)  as part of their consignment prior to interviews for full stack software developer
+ > [BRIDGING THE GAP SOLUTIONS](https://www.bgsgroup.co.zm/PROD/SITE/)  as part of their interview process prior to actual interviews for full stack software developer
  
 ## sample of the work
 ![tasks landing](https://user-images.githubusercontent.com/36500444/177394922-cc3b7ca6-5ebd-4d18-83a4-d1e8ea2b06a3.png)
