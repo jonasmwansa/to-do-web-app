@@ -22,8 +22,21 @@ option to edit or delete existing tasks on the list.
 
 ### Setup
 - Run git clone(https://github.com/jomlink/to-do-web-app.git) 
-- Create database with whatever tool available  as well as the table for storing users credentials, or get an extract of the file included in resources folder and import the tables, >> make sure you have created the database named todo then import the table into it, 
-
+- Create database with whatever tool available  as well as the table for storing users credentials, or get an extract of the file included in resources folder and import the tables, >> make sure you have created the database named todo then import the table into it,
+# for work bench:
+ -- Under Server Administration on the Home window select the server instance you want to restore database to (Create New Server Instance if doing it first time).
+ -- Click on Manage Import/Export
+ -- Click on Data Import/Restore on the left side of the screen.
+ -- Select Import from Self-Contained File radio button (right side of screen)
+ -- Select the path of .sql
+ -- Click Start Import button at the right bottom corner of window 
+# for phpymadmin
+ -- Open your database in phpMyAdmin. ...
+ -- Click Databases in the top-menu.
+ -- Click the name of the database you want to import to.
+ -- Click Import.
+ -- Choose file and click Go. ...
+ -- You're done.
 ### Run tests
 - opened via live server to test the markup, the styles,  Javascript as well php and mysql's ability to provide signing in and signing up.
 
