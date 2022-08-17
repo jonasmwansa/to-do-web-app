@@ -21,7 +21,7 @@ option to edit or delete existing tasks on the list.
 - Mysql
 
 ### Setup
-- Run git clone(https://github.com/jomlink/to-do-web-app.git) 
+- Run git clone(https://github.com/jonasmwansa/to-do-web-app.git) 
 - Create database with whatever tool available  as well as the table for storing users credentials, or get an extract of the file included in resources folder and import the tables, >> make sure you have created the database named todo then import the table into it,
 ### for work bench:
  - Under Server Administration on the Home window select the server instance you want to restore database to (Create New Server Instance if doing it first time).
@@ -51,7 +51,7 @@ option to edit or delete existing tasks on the list.
 
 ## 👤 Author: **Jonas Mwansa**
 
-- GitHub: [@jomlink](https://github.com/jomlink)
+- GitHub: [@jonasmwansa](https://github.com/jonasmwansa)
 - LinkedIn: [@jonas mwansa](https://www.linkedin.com/in/jonas-mwansa-787259155/)
 
 
@@ -59,7 +59,7 @@ option to edit or delete existing tasks on the list.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jomlink/to-do-web-app/issues).
+Feel free to check the [issues page](https://github.com/jonasmwansa/to-do-web-app/issues).
 
 ## Show your support
 
